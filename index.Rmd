@@ -14,7 +14,7 @@ knit        : slidify::knit2slides
 <!-- Limit image width and height -->
 <style type='text/css'>
 img {
-    max-height: 560px;
+    max-height: 400px;
     max-width: 964px;
 }
 </style>
@@ -79,7 +79,7 @@ Since students understand things better when they can get their hands on the mat
 and play with it, we've made a simple app to help visualize approximating the "area under
 the curve" with rectangles.
 
-![](assets/img/screenshot.png)
+![height](assets/img/screenshot.png)
 
 --- 
 
